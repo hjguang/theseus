@@ -6,7 +6,7 @@ public class Test {
 		System.out.println(".11....45678......"); 
 		System.out.println(".11......333....");
 		System.out.println("22222222");
-		System.out.println("...........");
-		System.out.println("11111111");
+		System.out.println("......22.....ccc");
+		System.out.println("11111111ddddd");
 	}
 }
